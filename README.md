@@ -1,6 +1,23 @@
 # KusoKoudoKaigi
 KusoKoudoKaigi全般のissue/wikiもろもろ用のリポジトリです。
 
+# KusoKoudoKaigiが目指すもの
+## 道Kuso(笑)を楽しめ
+## 競わないし作らない、第三のプログラミング
+プログラミングは目的をもって勉強するべきとの話があります。
+
+目的を持ってプログラミングを学ぶためには、以下の2つが有名です。
+- 競技プログラミング
+- モノ作りプログラミング
+
+しかし、きちんと目的や動機をもってプログラミングを行うのは、大変なことです。
+
+そこで、私は第三のプログラミングとして、KusoCodingを広めたいと思います。
+
+- 性能やコーディングの速度で競わない
+- 生産性も考えない
+
+ただ、楽しんで学ぶために、KusoKoudoKaigiは存在します。
 
 # これまでのKusoKoudoKaigi
 [#KusoKoudoKaigi](https://www.youtube.com/hashtag/kusokoudokaigi)
