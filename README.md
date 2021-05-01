@@ -16,8 +16,15 @@ KusoKoudoKaigi全般のissue/wikiもろもろ用のリポジトリです。
 # これまでのKusoKoudoKaigi
 KusoKoudoKaigi ファーストシーズン
 - KusoKoudoKaigi
+
 - KusoKoudoKaigi2
+
+
 - KusoKoudoKaigi3
+  - 2020/05/06
+  - [配信URL](https://youtu.be/6x9_h0c-sDI)
+  - [開催結果をまとめたGoogleスライド](https://docs.google.com/presentation/d/e/2PACX-1vQ2MHOgy7qQrQHQ1kkZ5v1kIaZnBagTgN5HbAZvaC2HSVdzzxPcd8NvUOUev_fIx6GRYW7HXPwEir8o/pub)
+
 - KusoKoudoKaigi4
   - 2021/04/25 開催
   - [配信URL](https://youtu.be/WhXQvch3cXU)
