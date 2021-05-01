@@ -11,3 +11,14 @@ KusoKoudoKaigi全般のissue/wikiもろもろ用のリポジトリです。
 私一人ではできることに限りがあるので、協力してくれる人を絶賛募集中です。
 
 金銭的なリターンは用意できませんが、よろしくおねがいします。
+
+
+# これまでのKusoKoudoKaigi
+KusoKoudoKaigi ファーストシーズン
+- KusoKoudoKaigi
+- KusoKoudoKaigi2
+- KusoKoudoKaigi3
+- KusoKoudoKaigi4
+  - 2021/04/25 開催
+  - [配信URL](https://youtu.be/WhXQvch3cXU)
+  - [開催結果をまとめたGoogleスライド](https://docs.google.com/presentation/d/e/2PACX-1vRREHyQrMcBlFiKcPfjUsKgyMs9asHTOBIjmQxPsIDrXywASEhtHxsOb11y0bcEIw7uhxoKtWSiehld/pub)
